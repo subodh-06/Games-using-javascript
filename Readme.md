@@ -9,7 +9,7 @@ A classic two-player game where you try to get three of your symbols in a row, c
 
 - **Status:** Available to play! ✅
 - **Description:** Players take turns marking spaces in a 3×3 grid. The player who first aligns three of their marks vertically, horizontally, or diagonally wins the game.
-- [Play the Tic-tac-toe Game](./tic-tac-toe)
+- [Play the Tic-tac-toe Game](https://onjsgame.netlify.app/tic-tac-toe-game/)
 
 ---
 
@@ -60,8 +60,8 @@ A memory game where players repeat a sequence of colors.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/simple-html-css-js-games.git
-    cd simple-html-css-js-games
+    git clone https://github.com/subodh-06/Games-using-javascript.git
+    cd <game path>
     ```
 
 2. Open the `index.html` file of any available game in your browser to start playing.
@@ -73,7 +73,3 @@ A memory game where players repeat a sequence of colors.
 Feel free to contribute by adding new games, improving existing games, or enhancing the UI/UX of the project. You can create a pull request and share your work with the community!
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
