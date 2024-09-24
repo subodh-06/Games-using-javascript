@@ -4,7 +4,7 @@ Welcome to the Simple Games Repository! 🎮 This repository contains various fu
 
 ## Available Games
 
-### 1. [Tic-tac-toe Game](./tic-tac-toe)
+### 1. [Tic-tac-toe Game](./Tic-tac-toe-Game)
 A classic two-player game where you try to get three of your symbols in a row, column, or diagonal.
 
 - **Status:** Available to play! ✅
